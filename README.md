@@ -4,6 +4,7 @@
 
 In this challange I created an FAQ accordion. An accordion is an interactive section on a webpage that the user can open and close to reveal more content. When opened the revealed content pushes down the rest of the elements on the page. In this instance the user can click on a couple of frequently asked questions to reveal the answers.
 
+[Live Site](https://daniel-papp.github.io/fem-FAQ-accordion-card/)
 ### Screenshot
 
 ![](./screenshot.png)
